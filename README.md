@@ -79,3 +79,17 @@ STEP 3: Deploy the kubernetes services which are in Deployment folder of the abo
              ![image](https://github.com/user-attachments/assets/4e3ed7c3-d645-43fd-b047-96793602a3cb)
 
 
+# AccuKnox_QA : Practical Assessment : Problem Statement 1
+
+**Objective 1. System Health Monitoring Script:**
+
+Develop a script that monitors the health of a Linux system. It should check
+CPU usage, memory usage, disk space, and running processes. If any of
+these metrics exceed predefined thresholds (e.g., CPU usage > 80%), the
+script should send an alert to the console or a log file.
+
+**Objective 2. Automated Backup Solution:**
+
+Write a script to automate the backup of a specified directory to a remote
+server or a cloud storage solution. The script should provide a report on the
+success or failure of the backup operation.
