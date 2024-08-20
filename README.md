@@ -79,7 +79,7 @@ STEP 3: Deploy the kubernetes services which are in Deployment folder of the abo
              ![image](https://github.com/user-attachments/assets/4e3ed7c3-d645-43fd-b047-96793602a3cb)
 
 
-# AccuKnox_QA : Practical Assessment : Problem Statement 1
+# AccuKnox_QA : Practical Assessment : Problem Statement 2
 
 **Objective 1. System Health Monitoring Script:**
 
