@@ -1,12 +1,9 @@
-# AccuKnox_QA : Practical Assessment
+# AccuKnox_QA : Practical Assessment : Problem Statement 1
 
 # Prerequisites
 1.	Install either Docker desktop or Podman.
 2.	Install Chocolatey for installing minikube.
 3.	Clone the git repository.
-
-  	git clone https://github.com/Vengatesh-m/qa-test.git
-
 
 **Kubernetes Deployment:**
 
@@ -69,12 +66,16 @@ STEP 3: Deploy the kubernetes services which are in Deployment folder of the abo
 - Write a simple test script (using a tool of your choice) to verify the integration between the frontend and backend services.
 - The test should check that the frontend correctly displays the message returned by the backend.
 
-**Documentation:**
+  **Above is the automation script in the repository. The script is named as :**
 
-- Provide a README file with instructions on how to set up and run the automated tests script.
+             integration_test.sh
 
-**Deliverables:**
-- Test script for automated testing.
-- README file with setup and execution instructions.
+  To run the script follow the below steps:
 
-**Github repo should be Public**
+             chmod +x integration_test.sh
+             ./integration_test.sh
+
+  If the script works without any errors it will display the below output:
+             ![image](https://github.com/user-attachments/assets/4e3ed7c3-d645-43fd-b047-96793602a3cb)
+
+
