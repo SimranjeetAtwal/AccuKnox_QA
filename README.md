@@ -88,8 +88,26 @@ CPU usage, memory usage, disk space, and running processes. If any of
 these metrics exceed predefined thresholds (e.g., CPU usage > 80%), the
 script should send an alert to the console or a log file.
 
+Solution : The file name is **system_health_monitoring.sh** . To execute the script follow the below steps:
+           
+           chmod +x system_health_monitoring.sh
+           ./system_health_monitoring.sh
+
+The output will be displayed as :
+ <br> ![image](https://github.com/user-attachments/assets/d87f55a3-6c99-4aee-8537-20318db44636)
+
+
 **Objective 2. Automated Backup Solution:**
 
 Write a script to automate the backup of a specified directory to a remote
 server or a cloud storage solution. The script should provide a report on the
 success or failure of the backup operation.
+
+Solution : The file name is **automated_backup_solution.sh** . To execute the script follow the below steps:
+
+           chmod +x automated_backup_solution.sh
+           ./automated_backup_solution.sh
+
+The script have an help function which provides the information needed to execute it. For displaying the help section run the script as:
+
+           ./automated_backup_solution.sh -h
