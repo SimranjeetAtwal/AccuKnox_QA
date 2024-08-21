@@ -1,4 +1,4 @@
-# AccuKnox_QA : Practical Assessment : Problem Statement 1
+# Practical Assessment : Problem Statement 1
 
 # Prerequisites
 1.	Install either Docker desktop or Podman.
