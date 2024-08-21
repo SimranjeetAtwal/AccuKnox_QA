@@ -55,7 +55,7 @@ display_help() {
     echo "Usage: $0"
     echo
     echo "This script backs up a source directory to a remote server using SCP."
-    echo "You will be prompted to provide source and destination paths, as well as the password for the remote server."
+    echo "You will be prompted to provide source and destination paths, as well as the remote server name/ip, password for the remote server."
     echo
     echo "Options:"
     echo "  -h, --help   Show this help message and exit."
